@@ -1,0 +1,12 @@
+{
+    "assignmentID": 43,
+    "problems": {
+        "cs2810-arm-maze-directions": {
+            "id": 1,
+            "step": 3,
+            "whitelist": {
+                "directions.s": true
+            }
+        }
+    }
+}
